@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(173, 230, 227); 
+    background-image: url("https://res.cloudinary.com/fas3a/image/upload/v1567403578/pic13_kvs935.gif");
+    background-repeat: repeat-y;
+    color: white;
+    background-attachment: scroll;
+
+}
+hr {
+    border-style: groove;
+    border-color:  slateblue;
+    border-width: 2px 1px 1px 10px;
+}
+#aboutMe {
+    text-align: right;
+    background-color: white;
+    color: black;
+    border-style: outset;
+    max-width: 100%;
+    height: auto;
+}
+#skil {
+    border-style: outset;
+    background-color: grey;
+    text-align: center
+}
+#myName {
+    color: rgb(233, 50, 50);
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+#heaDer{
+    background-image: url("https://res.cloudinary.com/fas3a/image/upload/v1567403603/pics4_b2qcyg.jpg");
+}
